@@ -28,3 +28,10 @@ Classification d’images TID2013 avec Random Forest : différencier les images 
 [[596 5]
 [ 4 0]]
 
+## 📦 Installation / Requirements
+
+To install all dependencies used in this project, run:
+
+```bash
+pip install -r requirements.txt
+
